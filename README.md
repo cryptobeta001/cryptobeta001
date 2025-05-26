@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Cryptobeta!
+![image](https://github.com/user-attachments/assets/8cef6853-4d70-4d36-abc8-ea643fc2f55b)# 👋 Hello, I'm Cryptobeta!
 
 I'm a passionate developer dedicated to building innovative solutions and continuously expanding my skill set. My GitHub repositories reflect my journey through various technologies and projects.
 
@@ -14,15 +14,22 @@ I'm a passionate developer dedicated to building innovative solutions and contin
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📊 GitHub Stats
+---
+📊 Github Stats,
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
+</p>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptobeta001&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cryptobeta001&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptobeta001&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
-</a>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cryptobeta001&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptobeta001&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
 ## 📫 Let's Connect
 
