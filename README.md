@@ -33,6 +33,6 @@ I'm a passionate developer dedicated to building innovative solutions and contin
 
 ## 📫 Let's Connect
 
-- Email: [cryptobeta001@gmail.com](mailto:your.email@example.com)
-- Telegram: [@cryptobeta001](https://t.me/YourTelegram)
-- Twitter: @cbeta001
+- Email: [cryptobeta001@gmail.com](mailto:cryptobeta001@gmail.com)
+- Telegram: [@cryptobeta001](https://t.me/cryptobeta001)
+- Twitter: [@cbeta001](https://x.com/cbeta001)
