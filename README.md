@@ -21,7 +21,7 @@ I'm a passionate developer dedicated to building innovative solutions and contin
 </p>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptobeta001&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptobeta001&theme=gruvbox" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
