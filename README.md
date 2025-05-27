@@ -2,7 +2,16 @@
 
 I'm a passionate developer dedicated to building innovative solutions and continuously expanding my skill set. My GitHub repositories reflect my journey through various technologies and projects.
 
-> Explore more in my repos!
+
+## 🚀 What I do
+
+* Trading
+* NFT games
+* Collecting NFT's
+* Running blockchain nodes and testnets
+* Exploring decentralized networks and technologies
+* Constantly learning and improving my blockchain skills
+* LASTLY - “Taking care of my one precious daughter”
 
 ## 🛠️ Tech Stack
 
